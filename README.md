@@ -1,16 +1,14 @@
 # 👋 Hi there, I'm Amani Malawaraarachchi
 
 Welcome to my GitHub profile! 🎉  
-I'm a **software engineering student** with a passion for **web development** and **technology**.  
+I'm a ** Information Technology Undergraduate ** with a passion for **web development** and **technology**.  
 
 ---
 
 ## 💡 About Me
 
-- 🎓 **Software Engineering Student** at Sri Lanka Institute of Information Technology (SLIIT).  
-- 🌐 **Freelance Web Developer**: Crafting beautiful, responsive websites.  
-- 🎬 **Video Editor**: Creating impactful video content.  
-- 🌱 **Currently Learning**: Advanced JavaScript, React, and AI technologies.  
+- 🎓 **Software Engineering Student** at Sri Lanka Institute of Information Technology (SLIIT).    
+- 🌱 **Currently Learning**: JAVA, React and AI technologies.  
 - 🌍 **Location**: LK.  
 
 ---
