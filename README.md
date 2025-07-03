@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Amani Malawaraarachchi
+# 👋 Hi there, I'm Amani 
 
 Welcome to my GitHub profile! 🎉  
 I'm a ** Information Technology Undergraduate ** with a passion for **web development** and **technology**.  
